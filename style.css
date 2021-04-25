@@ -34,12 +34,12 @@
 }
 
 #image {
-    width: 100%;
+    max-width: 100%;
     margin-top: 16px;
     margin-bottom: 16px;
 }
 
 #main {
-    width: 800px;
+    max-width: 800px;
     margin: auto;
 }
