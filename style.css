@@ -1,0 +1,45 @@
+
+
+#body {
+    font-family:Roboto;
+}
+
+#top {
+    text-align: center;
+}
+#logo {
+    color: white;
+    background-color: black;
+    display: inline-block;
+    font-size: 85px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 16px;
+}
+
+#logo-name {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: white;
+    margin: 16px;
+}
+
+#navigation a {
+    color gray;
+    padding: 16px
+}
+
+#navigation a:hover {
+    color: gold;
+}
+
+#image {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#main {
+    width: 800px;
+    margin: auto;
+}
