@@ -1,11 +1,12 @@
 
 
 #body {
-    font-family:Roboto;
+    font-family: 'Roboto', sans-serif;
 }
 
 #top {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 #logo {
     color: white;
@@ -15,6 +16,7 @@
     font-weight: bold;
     padding: 8px;
     margin-top: 16px;
+    margin-bottom: 16px;
 }
 
 #logo-name {
@@ -25,8 +27,10 @@
 }
 
 #navigation a {
-    color gray;
-    padding: 16px
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 22px
 }
 
 #navigation a:hover {
