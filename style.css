@@ -1,7 +1,13 @@
+body {
+    background-image: url("background.jpg");
+    
 
+}
 
 #body {
     font-family: 'Roboto', sans-serif;
+    
+
 }
 
 #top {
@@ -13,7 +19,7 @@
     background-color: black;
     display: inline-block;
     font-size: 85px;
-    font-weight: bold;
+    font-weight: bold; 
     padding: 8px;
     margin-top: 16px;
     margin-bottom: 16px;
@@ -39,6 +45,7 @@
 
 #header_image {
     max-width: 100%;
+    align: center;
     margin-top: 16px;
     margin-bottom: 16px;
     margin-left: -38px;
@@ -48,4 +55,11 @@
 #main {
     max-width: 800px;
     margin: auto;
+    color: black
+  
+}
+
+p{
+    text-align: justify;#
+    
 }
